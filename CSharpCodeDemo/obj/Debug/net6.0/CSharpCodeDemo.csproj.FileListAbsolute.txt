@@ -1,0 +1,15 @@
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\bin\Debug\net6.0\CSharpCodeDemo.exe
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\bin\Debug\net6.0\CSharpCodeDemo.deps.json
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\bin\Debug\net6.0\CSharpCodeDemo.runtimeconfig.json
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\bin\Debug\net6.0\CSharpCodeDemo.dll
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\bin\Debug\net6.0\CSharpCodeDemo.pdb
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\CSharpCodeDemo.csproj.AssemblyReference.cache
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\CSharpCodeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\CSharpCodeDemo.AssemblyInfoInputs.cache
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\CSharpCodeDemo.AssemblyInfo.cs
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\CSharpCodeDemo.csproj.CoreCompileInputs.cache
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\CSharpCodeDemo.dll
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\refint\CSharpCodeDemo.dll
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\CSharpCodeDemo.pdb
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\CSharpCodeDemo.genruntimeconfig.cache
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\CSharpCodeDemo\obj\Debug\net6.0\ref\CSharpCodeDemo.dll
