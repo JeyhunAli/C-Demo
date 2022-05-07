@@ -15,6 +15,7 @@ namespace CSharpCodeDemo
             //               useful when we accept user input (string)
             //               Different data types can do different things
 
+            //double to int
             double a = 3.78;
             Console.WriteLine("before converting " +a);
             int b = Convert.ToInt32(a);
@@ -32,6 +33,22 @@ namespace CSharpCodeDemo
 
             double ss = 5.5;
             Console.Write(ss.GetType());
+
+            //int to double
+            int aa = 2333;
+            double a1 = Convert.ToDouble(aa);
+            Console.WriteLine(aa);
+            Console.WriteLine(a1);
+            Console.WriteLine(a1+0.1);   // this line will display the decimal point
+            Console.WriteLine(a1.GetType());
+
+
+
+            // int to String
+            int i = 10;
+            String s = Convert.ToString(i);
+            Console.WriteLine(s.GetType());
+            Console.WriteLine(s+1);// output 101 because string 
 
         }
     }
