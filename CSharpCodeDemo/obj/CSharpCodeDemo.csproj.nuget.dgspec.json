@@ -22,7 +22,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://nuget.brinkpos.net:8500/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://partechnology.pkgs.visualstudio.com/_packaging/Brink/nuget/v3/index.json": {},
+          "https://partechnology.pkgs.visualstudio.com/_packaging/Legacy/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
