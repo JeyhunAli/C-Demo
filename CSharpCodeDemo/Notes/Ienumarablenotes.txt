@@ -1,0 +1,9 @@
+﻿What is the use of IEnumerable interface?
+IEnumerable is an interface defining a single method GetEnumerator() that returns an IEnumerator interface.
+It is the base interface for all non-generic collections that can be enumerated. 
+This works for read-only access to a collection that implements that IEnumerable can be used with a foreach statement
+
+Why do we use IEnumerable in C#?
+IEnumerable interface is used when we want to iterate among our classes using a foreach loop. 
+The IEnumerable interface has one method, GetEnumerator, that returns an IEnumerator interface
+that helps us to iterate among the class using the foreach loop.

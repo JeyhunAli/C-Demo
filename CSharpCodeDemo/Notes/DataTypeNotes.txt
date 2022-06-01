@@ -1,0 +1,31 @@
+﻿so the data types can be categorized into two categories based on how they occupy memory location.
+So as the name suggests, it is a data type which, when declared and assigned a value, holds that
+
+value directly on its own memory space.
+
+All right.
+
+So the value type uses heap to store value.
+Example of value types are data types such as int float long double char bool decimal double.
+And then if we look at the reference type in more detail, we can see that it is a variable type which
+
+instead of storing the value in memory directly, stores only the memory location of actual data.
+
+The variable here stores the memory reference of the data and not the data directly.
+
+This is the huge difference, right?
+
+So reference data types are string class array, basically data types that are more complex and need
+
+a lot more space,
+So let's say you go to a rental, so you want to get a car, right?
+
+So you go to a car rental and then you are at the counter and you want to pick up the car that you have
+
+ordered.
+
+Well, the counter doesn't have your car, but it has the location of your car.
+
+So it will give you the keys and it will tell you go this direction and you will find the car
+
+

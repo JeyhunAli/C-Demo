@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace CSharpCodeDemo.If_Else_Statement
 {
-    internal class basic_if_else2
+    public class basic_if_else2
     {
+        public static string name;
        
         public static void Main(String[] args)
         {
+            
             Console.WriteLine("please enter your age");
             
-            String name = Console.ReadLine();
+             name = Console.ReadLine();
             
 
             if (name == null)
