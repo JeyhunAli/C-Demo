@@ -1,0 +1,136 @@
+﻿What is xUnit C#?
+xUnit.net is a free, open source, community-focused unit testing tool for the . NET Framework. 
+Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit 
+testing C#, F#, VB.NET and other . NET languages. xUnit.net works with ReSharper,
+CodeRush, TestDriven.NET and Xamarin.
+
+Why should I use xUnit?
+It allows you to create new attributes to control your tests. It ensures custom
+functionality with the possibility of extending the Asset class's Contains,
+DoesNotContain Equal, NotEqual, InRange, & NotInRange. xUnit also allows you to
+inherit from Fact, Theory, and other attributes.
+
+solution vs project 
+think of a solution file like a zip file or just like a three-ring binder now that three-ring
+binder can contain a lot of different things but it's going to encompass all
+of the things that need to be grouped together so a solution in this case
+would work for all of the code that 
+A project is contained within a solution. Despite its name, a solution is not an "answer".
+ It's simply a container for one or more related projects, along with build information,
+ Visual Studio window settings, and any miscellaneous files that aren't associated with a particular project
+a particular solution can contain multiple projects
+solution file itself like I said is just kind of a three-ring binder that groups it all together 
+
+package.json file explained
+it is the settings file used by npm node package manager that lets you sort
+of set up and configure your project you can add scripts in there you can add
+dependencies in there you can define all the version information and names and
+description and keywords everything about your project is defined inside
+
+quick tip:
+ctrl K + C (adds //comment to a line) 
+What is the quick key method to uncomment code in Visual studio?
+Ctrl + K + U removes the // comments
+To comment out multiple code lines right-click and select Source > Add Block Comment. ( CTRL+SHIFT+/ )
+
+For C# code files, Visual Studio has a Code Cleanup button at the bottom of the editor 
+(keyboard: Ctrl+K, Ctrl+E) to apply code styles from an EditorConfig file or from the Code Style options page.
+
+Fact vs Theory
+In Xunit test class or fixture, there are two kinds of tests: Fact tests and Theory tests. 
+difference is that Theory tests are parameterized and can take
+outside input. Fact tests, however, are not parameterized and cannot take outside input.
+
+HttpClient:
+public class HttpClient : System.Net.Http.HttpMessageInvoker
+Provides a class for sending HTTP requests and receiving HTTP responses from a resource identified by a URI.
+HttpClient is intended to be instantiated once per application, rather than per-use.
+HttpClient class provides a base class for sending/receiving the HTTP requests/responses from a URL.
+It is a supported async feature of . NET framework. HttpClient is able to process multiple 
+concurrent requests. It is a layer over HttpWebRequest and HttpWebResponse.
+
+?? and ??= operators (C# reference)
+The null-coalescing operator ?? returns the value of its left-hand operand if it isn't null;
+ otherwise, it evaluates the right-hand operand and returns its result. The ?? operator 
+doesn't evaluate its right-hand operand if the left-hand operand evaluates to non-null.
+its basically looks like if else condition if left side is null use this 
+if its not null and this thime it will pick whatever on the first condition 
+
+I disposable
+interface many predefined types in the.net framework will implement the I
+disposable interface and that just means that you should call dispose on them to
+dispose of them as soon as possible and not leave them to the garbage collector
+
+DelegatingHandler Class
+A type for HTTP handlers that delegate the processing of HTTP response messages to another handler, called the inner handler.
+HTTP message handler in web api is a class that receives an HTTP request and returns an HTTP response.
+to
+handle the HTTP request and to generate that response in web api a series of message handlers are chained together in
+that chain the first handler received the HTTP request do some processing and
+gives the request to the next handler
+and again next handler do some
+processing and passes the request to the next Handler and so on at some point the
+response is generated and goes back up
+in the chain so now the pattern we use
+to change message handlers in this way
+is called delegating handler
+two types of message handlers available
+in the Web API framework 
+1.server-side HTTP message handlers
+2. client-side HTTP message handlers
+
+IIdTokenProvider interface
+its simply PAR identity service Authenticator token provider
+
+
+how to use async and await in the real world to make your
+apps faster and more responsive now just to be clear about what we're talking
+about let's go over what I mean by a synchronous versus asynchronous synchronous programming is work that
+gets done in sequence task a gets done then task B then task C and finally task
+D the problem is that no one else can do any work until task D gets completed
+asynchronous programming allows us to fix that problem there are two big benefits here C right away when you use
+it the first big benefit is in your user interface if task B takes a long time
+that will lock up your user interface by executing a task asynchronously while
+their waiting to complete control can be given back to the user interface so it's still responsive the 
+second benefit
+we can execute them in parallel that means as long as your
+system has the resources it will try to do all four tasks at once if each task took three seconds to
+execute instead of taking a total of 12 seconds to complete it might only take
+four seconds
+
+Synchronous: you cook the eggs, then you cook the toast.
+Asynchronous, single threaded: you start the eggs cooking and set a timer. 
+You start the toast cooking, and set a timer. While they are both cooking, 
+you clean the kitchen. When the timers go off you take the eggs off the heat and the toast out of the toaster and serve them.
+Asynchronous, multithreaded: you hire two more cooks, one to cook eggs and one to cook toast. Now you have the problem of coordinating the cooks so that they do not conflict with each other in the kitchen when sharing resources. And you have to pay them.
+Now does it make sense that multithreading is only one kind of asynchrony? Threading is about workers; asynchrony is about tasks. In multithreaded workflows you assign tasks to workers. In asynchronous single-threaded workflows you have a graph of tasks where some tasks depend on the results of others; as each task completes it invokes the code that schedules the next task that can run, given the results of the just-completed task. But you (hopefully) only need one worker to perform all the tasks, not one worker per task.
+
+
+
+Guid -> Global unique Identifier
+IDisposable   -> to close the browser or for clean up process
+IAsyncLifetime
+
+SharedFixture 
+TestDataManager
+
+ITestOutputHelper _outputHelper  -> its helping to print on the console
+AuthorizationHandler
+DelegatingHandler
+IIdTokenProvider
+
+
+
+lets say you want to apply for async method to your startup and teardown 
+then we go ahead delete IDisposable interface then add IAsyncLifetime interface 
+after added interface then implement
+ public Task InitializeAsync()    public Task DisposeAsync()
+once these methods impplemented if you dont add await operator to the method it will worn you to add 
+if you dont add it methhod will run synchronously 
+if you want to run parallelel then add it 
+with this IAsyncLifetime interface you can have constructor as well in your startup method
+
+one of the great pure reason to use xunit is assertion 
+mostly wide used one is fluent assertion because there better messaging system and wide using environment
+
+TestRailId(140664)
