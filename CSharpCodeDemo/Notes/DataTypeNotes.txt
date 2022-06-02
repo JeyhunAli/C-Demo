@@ -28,4 +28,9 @@ Well, the counter doesn't have your car, but it has the location of your car.
 
 So it will give you the keys and it will tell you go this direction and you will find the car
 
+CLR - COMMAN LANGUAGE RUNTIME
 
+
+static simply means that this method
+is static and it declares the static member, which belongs to the type itself rather than to a specific
+object.
