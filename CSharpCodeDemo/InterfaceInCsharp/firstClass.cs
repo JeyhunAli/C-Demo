@@ -11,7 +11,7 @@ namespace CSharpCodeDemo.InterfaceInCsharp
         static void Main(String[] args)
         {
             /*
-             * if you want to find root of the any method or interface poiny on that and press F12
+             * if you want to find root of the any method or interface point on that and press F12
              * 
              */
 
