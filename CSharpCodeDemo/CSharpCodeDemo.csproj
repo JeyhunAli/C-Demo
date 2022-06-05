@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpCodeDemo.TryCatch</StartupObject>
+    <StartupObject>CSharpCodeDemo.If_Else_SwitchStatement.practiceSwitchStatement</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
