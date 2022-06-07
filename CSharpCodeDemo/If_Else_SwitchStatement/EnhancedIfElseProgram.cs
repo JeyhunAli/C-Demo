@@ -20,6 +20,9 @@ using System.Threading.Tasks;
  * 
  * 
  * 
+ * general structure of ternary operator 
+ *   Condition  ? if true : is false 
+ * 
  */
 
 
@@ -46,7 +49,26 @@ namespace CSharpCodeDemo.If_Else_SwitchStatement
 
             //validate input from console
             bool validInteger = int.TryParse(inputvalue, out inputTemperature);
+             
+            if (validInteger)
+            {
+                //if is valid integer then it will check for the conditions using nested ternary operator here!
+                temperatureMessage = inputTemperature <= 15 ?
+                "its cold out there " :
+                inputTemperature > 15 && inputTemperature <= 22 ?
+                "it's warm" :
+                inputTemperature > 25 ?
+                "its hot outside" :
+                // this emthpy string maintain the structure
+                "";
 
+                Console.WriteLine(temperatureMessage);  
+             }
+            else
+            {
+                //incase if the input value us not a valid temperature which ic converting/parsing
+                Console.WriteLine("not a valid temperature");
+            }
 
             
         }

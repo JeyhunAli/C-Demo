@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpCodeDemo.If_Else_SwitchStatement.Enhanced_If_Else</StartupObject>
+    <StartupObject>CSharpCodeDemo.Loop.loopProgramchallange</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
