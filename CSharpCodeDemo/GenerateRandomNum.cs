@@ -10,7 +10,8 @@ namespace CSharpCodeDemo
     {
         public static void Main(String[] args)
         {
-            Random random = new Random();
+          //Random random = new Random();
+            var random = new Random();
             int num = random.Next(1, 10); // range specified beteween 1, 10 
                                           // it will generate random num between 1, 10
 

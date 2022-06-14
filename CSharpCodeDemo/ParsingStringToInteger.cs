@@ -29,8 +29,7 @@ namespace CSharpCodeDemo
             int result2 = num3 - num4;
             Console.WriteLine("result2 is " + result2);
 
-
-
+            
             string stringForFloat = "0.85"; // datatype should be float
             string stringForInt = "12345"; // datatype should be int
 

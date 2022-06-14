@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CSharpCodeDemo.Loop
 {
-    internal class whileLoop
+    public class whileLoop
     {
         public static void Main(String[] args)
         {
@@ -19,9 +19,9 @@ namespace CSharpCodeDemo.Loop
             while(name == "")
             {
                 Console.Write("Enter your name:  ");
-#pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
+
                 name = Console.ReadLine();
-#pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
+
             }
             Console.WriteLine("Hello " + name);
         }

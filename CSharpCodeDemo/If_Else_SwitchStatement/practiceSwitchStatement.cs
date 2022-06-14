@@ -23,6 +23,7 @@ namespace CSharpCodeDemo.If_Else_SwitchStatement
                 case 21:
                     Console.WriteLine("can party in the club!");
                     break;
+
                     default:
                     Console.WriteLine("then how old are you");
                     break ;
