@@ -33,6 +33,12 @@ namespace CSharpCodeDemo.PropertiesOfCSharp
         private int width;
         private int volume;
 
+        /*
+         *   we can implement
+             ur own logic, how we want to set it so we can say, OK, if you want to set the value, it has to
+             follow my rules so we can define our own rules, which have to be.
+
+         */
         public void setLength(int length)
         {
             if (length <= 0)
