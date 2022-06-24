@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IntegrationPathToCsharp/1.0.0": {
+        "dependencies": {
+          "CSharpCodeDemo": "1.0.0"
+        },
+        "runtime": {
+          "IntegrationPathToCsharp.dll": {}
+        }
+      },
+      "CSharpCodeDemo/1.0.0": {
+        "runtime": {
+          "CSharpCodeDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntegrationPathToCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpCodeDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
