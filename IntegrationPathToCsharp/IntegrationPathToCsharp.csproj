@@ -7,7 +7,7 @@
 	  <DocumentationFile>Comments.xml</DocumentationFile>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>IntegrationPathToCsharp.IfElseStuff.SwitchstatementsPractice</StartupObject>
+    <StartupObject>IntegrationPathToCsharp.Stringoperations.StringClass1</StartupObject>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 

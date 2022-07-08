@@ -10,6 +10,11 @@
                     *  just practice
              	        *  </summary>
         </member>
+        <member name="T:IntegrationPathToCsharp.forLoop.whileloopClass1">
+            <summary>
+            about while loop
+            </summary>
+        </member>
         <member name="M:IntegrationPathToCsharp.IfElseStuff.Class1Decision.ternaryOperator">
             <summary>
             this operator same with if else statemenet
