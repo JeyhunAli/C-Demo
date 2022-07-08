@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpCodeDemo.PropertiesOfCSharp
 {
-    public class propertiExplain
+    public class PracticingProperties
     {
         /*
          *  Well, this is a code that is just understood by C Sharp and it even was created for us automatically
@@ -20,6 +20,21 @@ namespace CSharpCodeDemo.PropertiesOfCSharp
         compile the code so the compiler does that automatically.
         For us, it just says, OK, if you have this line of code, I'm going to totally treat it as if it
         was this code that you have here, only that it's a lot shorter and it's a lot easier to create this
+
+         */
+
+
+        public int width = 10;
+        private int volume;
+        private int height;
+        private int lenght;
+
+
+
+        /*
+         *      why would you need this approach?
+                Well, they're just used when you have no additional logic required in the property accessors so.
+                and the property definitions then u can use this approach
          */
         public int MyProperty { get; set; }  //1st way of declaring property
 
@@ -36,11 +51,41 @@ namespace CSharpCodeDemo.PropertiesOfCSharp
             }
          }
     
+        public int Width
+        {
+            get
+            {
+                return this.width;
+            }
+
+            set
+            {
+                MyProperty = value;
+            }
+        }
+
+        public int Volume
+        {
+            get
+            {
+                return this.height * this.lenght * this.width;
+            }
+
+            //here we dont actually need to set just returning ultiplacation of all the class/member var
+            //set
+            //{
+            //    volume = value;
+            //}
+        }
+
+     
+
+
         public class testProperty
         {
             static void Main(string[] args)
             {
-                var propertiExplain = new propertiExplain();
+                var propertiExplain = new PracticingProperties();
                 int test = propertiExplain.MyProperty = 10;
                 Console.WriteLine("my property value is: " +test);
 

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IntegrationPathToCsharp</name>
+    </assembly>
+    <members>
+        <member name="M:IntegrationPathToCsharp._1Program.function1">
+                      * <summary>
+                      * this function does nothing
+                    *  just practice
+             	        *  </summary>
+        </member>
+        <member name="T:IntegrationPathToCsharp.forLoop.whileloopClass1">
+            <summary>
+            about while loop
+            </summary>
+        </member>
+        <member name="M:IntegrationPathToCsharp.IfElseStuff.Class1Decision.ternaryOperator">
+            <summary>
+            this operator same with if else statemenet
+            </summary>
+        </member>
+        <member name="T:IntegrationPathToCsharp.IfElseStuff.SwitchstatementsPractice">
+            <summary>
+            
+            practice switch case
+            </summary>
+        </member>
+    </members>
+</doc>
