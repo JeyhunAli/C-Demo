@@ -7,7 +7,7 @@
 	  <DocumentationFile>Comments.xml</DocumentationFile>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>IntegrationPathToCsharp.Stringoperations.StringClass1</StartupObject>
+    <StartupObject>IntegrationPathToCsharp.Algorithms.reverseString</StartupObject>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
