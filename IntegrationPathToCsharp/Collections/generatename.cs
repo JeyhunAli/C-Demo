@@ -14,6 +14,6 @@ namespace IntegrationPathToCsharp.Collections
            Console.WriteLine(GenerateName());
         }
 
-        public static string GenerateName() => $"IntTest.{Guid.NewGuid().ToString("N")[..15]}";
+        public static string GenerateName() => $"Name.{Guid.NewGuid().ToString("N")[..15]}";
     }
 }
