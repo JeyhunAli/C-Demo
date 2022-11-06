@@ -7,7 +7,7 @@
 	  <DocumentationFile>Comments.xml</DocumentationFile>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>IntegrationPathToCsharp.forLoop.forLoopProgram</StartupObject>
+    <StartupObject>IntegrationPathToCsharp.Algorithms.finMaximumNumber</StartupObject>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
