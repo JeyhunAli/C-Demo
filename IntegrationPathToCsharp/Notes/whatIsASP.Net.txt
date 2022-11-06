@@ -1,0 +1,48 @@
+﻿So what even is ASP.NET?
+Well, it's an open source web framework for building
+fast and secure web apps and services within.NET.
+ASP.NET is also cross platform which is one of the biggest draws,
+which means you can run it on Windows,
+Linux, Mac OS, basically anywhere.
+So this will allow you to build your
+ASP.NET web apps on any operating system,
+make websites with HTML, CSS,
+or JavaScript and build
+these web services to be used by your site or in mobile apps.
+You can also turn your site sign into
+popular third-party apps for authentication like Microsoft,
+Google, Twitter and more.
+ASP.NET lets you make your web pages with a language called razor.
+Now razors cool because it's just HTML and C sharp.
+So you can type HTML and then type
+an at-sign and start writing C sharp.
+We'll see some cool examples of this in this video series.
+Best of all, ASP.NET is
+absolutely free and if you're a student or doing open-source,
+Visual Studio is also free.
+In fact, everything we're going to show you
+is free and all of.NET, C sharp,
+and ASP.NET is open source and the code
+is available on GitHub for you to read or learn from.
+--------------------------------------------------------------------------------------------
+asp.net stands for active server pages which microsoft provides for building applications
+
+differences between asp.net and asp.net core
+applications built using asp.net can be
+applicable only for windows
+but applications using asp.net core can be
+applicable for windows
+linux and mac os asp.net uses
+dotnet technology as the platform for
+building the applications
+where asp.net core uses both dotnet and
+dot net core
+as the platform for building
+applications
+
+the
+performance of
+applications using asp.net technology is 
+good
+whereas asp.net core applications have
+high and better performance
