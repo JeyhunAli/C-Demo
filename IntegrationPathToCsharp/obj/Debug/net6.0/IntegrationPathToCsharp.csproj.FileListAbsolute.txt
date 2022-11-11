@@ -1,8 +1,3 @@
-C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.csproj.AssemblyReference.cache
-C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.AssemblyInfoInputs.cache
-C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.AssemblyInfo.cs
-C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.csproj.CoreCompileInputs.cache
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\CSharpCodeDemo.deps.json
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\CSharpCodeDemo.runtimeconfig.json
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\CSharpCodeDemo.exe
@@ -11,12 +6,17 @@ C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharp
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\IntegrationPathToCsharp.runtimeconfig.json
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\IntegrationPathToCsharp.dll
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\IntegrationPathToCsharp.pdb
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\Comments.xml
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\CSharpCodeDemo.dll
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\CSharpCodeDemo.pdb
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.csproj.AssemblyReference.cache
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.AssemblyInfoInputs.cache
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.AssemblyInfo.cs
+C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.csproj.CoreCompileInputs.cache
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.csproj.CopyComplete
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.dll
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\refint\IntegrationPathToCsharp.dll
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.pdb
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\IntegrationPathToCsharp.genruntimeconfig.cache
 C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\obj\Debug\net6.0\ref\IntegrationPathToCsharp.dll
-C:\Users\aliyevj\OneDrive - PAR Technology Corporation\Desktop\C#practice\CSharpCodeDemo\IntegrationPathToCsharp\bin\Debug\net6.0\Comments.xml

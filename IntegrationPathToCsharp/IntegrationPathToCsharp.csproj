@@ -7,7 +7,7 @@
 	  <DocumentationFile>Comments.xml</DocumentationFile>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>IntegrationPathToCsharp.Algorithms.finMaximumNumber</StartupObject>
+    <StartupObject>IntegrationPathToCsharp.Algorithms.Move_All_Zero_to_End</StartupObject>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
