@@ -8,6 +8,7 @@ namespace IntegrationPathToCsharp.Algorithms
 {
     internal class randomNumbers
     {
+        private readonly static Random random = new Random();
         static void Main(string[] args)
         {
             SimpleRandom();
@@ -21,8 +22,7 @@ namespace IntegrationPathToCsharp.Algorithms
 
         private static void SimpleRandom()
         {
-            Random random = new Random();
-
+          
             for (int i = 0; i < 10; i++)
             {
                 int randomNum = random.Next();
@@ -33,7 +33,7 @@ namespace IntegrationPathToCsharp.Algorithms
 
         private static void SimpleRandom2()
         {
-            Random random = new Random();
+           
             int  randomNum = random.Next();
             Console.WriteLine($"random Numbers {randomNum} ");
 
@@ -41,7 +41,7 @@ namespace IntegrationPathToCsharp.Algorithms
 
         private static void SimpleRandom3()
         {
-            Random random = new Random();
+            
 
             for (int i = 0; i < 10; i++)
             {
@@ -53,7 +53,7 @@ namespace IntegrationPathToCsharp.Algorithms
 
         private static void SimpleRandom4()
         {
-            Random random = new Random();
+            
 
             List<PersonModel> people = new List<PersonModel>
             {
